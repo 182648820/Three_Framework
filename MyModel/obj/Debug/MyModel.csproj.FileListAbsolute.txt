@@ -1,0 +1,5 @@
+G:\source\applyFrame\MyModel\bin\Debug\MyModel.dll
+G:\source\applyFrame\MyModel\bin\Debug\MyModel.pdb
+G:\source\applyFrame\MyModel\obj\Debug\MyModel.csprojResolveAssemblyReference.cache
+G:\source\applyFrame\MyModel\obj\Debug\MyModel.dll
+G:\source\applyFrame\MyModel\obj\Debug\MyModel.pdb

@@ -1,0 +1,9 @@
+G:\source\applyFrame\MyBll\bin\Debug\MyBll.dll
+G:\source\applyFrame\MyBll\bin\Debug\MyBll.pdb
+G:\source\applyFrame\MyBll\bin\Debug\MyDal.dll
+G:\source\applyFrame\MyBll\bin\Debug\MyDal.pdb
+G:\source\applyFrame\MyBll\obj\Debug\MyBll.csprojResolveAssemblyReference.cache
+G:\source\applyFrame\MyBll\obj\Debug\MyBll.dll
+G:\source\applyFrame\MyBll\obj\Debug\MyBll.pdb
+G:\source\applyFrame\MyBll\bin\Debug\MyModel.dll
+G:\source\applyFrame\MyBll\bin\Debug\MyModel.pdb

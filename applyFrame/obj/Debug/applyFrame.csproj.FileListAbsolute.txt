@@ -1,0 +1,15 @@
+G:\source\applyFrame\applyFrame\bin\Debug\applyFrame.exe.config
+G:\source\applyFrame\applyFrame\bin\Debug\applyFrame.exe
+G:\source\applyFrame\applyFrame\bin\Debug\applyFrame.pdb
+G:\source\applyFrame\applyFrame\bin\Debug\MyBll.dll
+G:\source\applyFrame\applyFrame\bin\Debug\MyModel.dll
+G:\source\applyFrame\applyFrame\bin\Debug\MyDal.dll
+G:\source\applyFrame\applyFrame\bin\Debug\MyBll.pdb
+G:\source\applyFrame\applyFrame\bin\Debug\MyModel.pdb
+G:\source\applyFrame\applyFrame\bin\Debug\MyDal.pdb
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.csprojResolveAssemblyReference.cache
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.Form1.resources
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.Properties.Resources.resources
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.csproj.GenerateResource.Cache
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.exe
+G:\source\applyFrame\applyFrame\obj\Debug\applyFrame.pdb

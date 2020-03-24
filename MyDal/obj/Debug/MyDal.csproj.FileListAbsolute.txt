@@ -1,0 +1,7 @@
+G:\source\applyFrame\MyDal\bin\Debug\MyDal.dll
+G:\source\applyFrame\MyDal\bin\Debug\MyDal.pdb
+G:\source\applyFrame\MyDal\bin\Debug\MyModel.dll
+G:\source\applyFrame\MyDal\bin\Debug\MyModel.pdb
+G:\source\applyFrame\MyDal\obj\Debug\MyDal.csprojResolveAssemblyReference.cache
+G:\source\applyFrame\MyDal\obj\Debug\MyDal.dll
+G:\source\applyFrame\MyDal\obj\Debug\MyDal.pdb
